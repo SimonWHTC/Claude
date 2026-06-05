@@ -59,8 +59,10 @@ before committing.
 - Remember: an unregistered prior user can still hold **common-law / passing-off** rights in AU.
 
 ### 2.3 Domains
-- `northbounddigital.com` and `northbound-digital.com` are **in use** (a "NorthBound Digital
-  Marketing" web presence). `.com.au` and `.au` availability **[VERIFY]**.
+See the consolidated **Domain check** in Section 4A. In short: the global `.com`/`.digital` are
+already taken by other operators; `northbounddigital.com.au` showed **no live website** (connection
+refused) and is not indexed, suggesting it may be unregistered — **but this could not be
+authoritatively confirmed** (see note in 4A).
 
 ---
 
@@ -84,8 +86,10 @@ before committing.
 - NZ also recognises unregistered rights via passing-off and the Fair Trading Act.
 
 ### 3.3 Domains
-- `.co.nz` / `.nz` availability **[VERIFY]** (the generic `.digital` and `.com` variants are already
-  taken globally — see Section 4).
+See the consolidated **Domain check** in Section 4A. In short: `northbounddigital.co.nz` showed **no
+live website** (connection refused) and is not indexed, suggesting it may be unregistered — **but
+this could not be authoritatively confirmed** (see note in 4A). The `.digital`/`.com` variants are
+taken globally.
 
 ---
 
@@ -102,6 +106,47 @@ brand-confusion or domain headaches:
 The name "Northbound Digital" is therefore **not globally unique**. None of the above is a NZ/AU
 registration, so none is a direct legal bar in your target markets, but they reduce the available
 runway for a clean, globally consistent brand and matching domains.
+
+---
+
+## 4A. Domain check
+
+> **Method note / limitation.** This was checked from a sandboxed environment whose **network
+> allowlist blocked WHOIS, RDAP and DNS lookups** (the authoritative sources for "is this domain
+> registered?"). So the table below relies on two weaker signals: (a) whether the domain serves a
+> **live website**, and (b) whether it is **indexed by search engines**. A domain can be *registered
+> but parked* (no website, not indexed) — so "no live site" is **suggestive of availability, not
+> proof**. Confirm every row marked ⚠️ at a registrar before relying on it (links below).
+
+| Domain | Signal observed | Read |
+|---|---|---|
+| `northbound.digital` | Live site — **Northbound Digital LTD**, a startup-growth agency (UK-linked, ©2024) | **TAKEN** |
+| `northbounddigital.com` | Live site — **NorthBound Digital Marketing** (SEO/marketing) | **TAKEN** |
+| `northbound-digital.com` | Indexed / resolves | **TAKEN (likely)** |
+| `northbounddigital.ca` | Live site — Northbound Digital Solutions, Toronto | **TAKEN** (Canada) |
+| `northbounddigital.co.nz` | No live website (connection refused); not indexed | ⚠️ Possibly available |
+| `northbound.co.nz` | No live website; not indexed | ⚠️ Possibly available |
+| `northbounddigital.nz` | No live website; not indexed | ⚠️ Possibly available |
+| `northbounddigital.com.au` | No live website (connection refused); not indexed | ⚠️ Possibly available |
+| `northbound.com.au` | No live website; not indexed | ⚠️ Possibly available |
+| `northbounddigital.au` | No live website; not indexed | ⚠️ Possibly available |
+| `northbounddigital.io` | No live website; not indexed | ⚠️ Possibly available |
+| `northbounddigital.co` | No live website; not indexed | ⚠️ Possibly available |
+
+**Takeaways**
+- A clean, globally-consistent brand on the short domains (`.com`, `.digital`) is **not achievable** —
+  they're held by other "Northbound Digital" operators (UK marketing agency, US/CA SEO firms). This
+  raises **brand-confusion** risk online even though none of those are NZ/AU registrations.
+- The **NZ/AU country domains appear open**, which is the practical good news — but you must confirm
+  on a registrar/official WHOIS, then register the set you want quickly (typically
+  `.co.nz` + `.nz` and `.com.au` + `.au`, plus `.co`/`.io` defensively if budget allows).
+
+**Where to confirm authoritatively (run these yourself):**
+- `.nz` (official): https://dnc.org.nz/  → WHOIS/availability for `.co.nz` and `.nz`
+- `.au` (official): https://whois.auda.org.au/  → availability for `.com.au` and `.au` (note: `.com.au`/`.au`
+  require an Australian presence — an ABN/ACN or AU trade mark)
+- Any NZ or AU accredited registrar (e.g. an availability search on a registrar of your choice) will
+  also show real-time availability and let you register on the spot.
 
 ---
 
